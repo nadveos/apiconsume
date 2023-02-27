@@ -8,7 +8,7 @@ import '../models/actore_models.dart';
 
 class PeliculasProviders {
   final String _url = 'api.themoviedb.org';
-  final String _apiKey = '7eb7a0290bc5c0fd55c35e12c5ec9e76';
+  final String _apiKey = 'YOUR_API_KEY';
   final String _lang = 'es-ES';
   // final String _region = 'AR';
 
